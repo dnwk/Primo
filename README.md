@@ -15,7 +15,7 @@ Primo Login Splash
 	
 	c.	Magnific Popup http://dimsemenov.com/plugins/magnific-popup/
 	
-	d.  	jquery.cookie  http://plugins.jquery.com/cookie/
+	d.	jquery.cookie  http://plugins.jquery.com/cookie/
 	
 	e.	Notify.js (Optional) http://notifyjs.com/
 	
