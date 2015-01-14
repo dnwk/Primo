@@ -11,7 +11,7 @@ Primo Login Splash
 
 	a	jQuery
 	
-	b.	jQuery.Primo   https://github.com/mehmetc/jQuery.PRIMO
+	b.	jQuery.Primo   https://github.com/mehmetc/jQuery.PRIMO (or my fork)
 	
 	c.	Magnific Popup http://dimsemenov.com/plugins/magnific-popup/
 	
