@@ -27,9 +27,9 @@ if(jQuery.PRIMO.session.user.isLoggedIn()==false&&$.cookie(jQuery.PRIMO.session.
 }
 
 //Customize Login on the upper right
-$('#exlidSignIn').html('<a onclick="loginscreen();">Sign in</a>');
-//overrite login buttons
+
 $('#exlidSignIn').html('<a href=\'#\' onclick="loginscreen();">Sign in</a>');
+//overrite login buttons
 $( document ).ajaxComplete(function() {
 	$('em.EXLTabHeaderContentAdditionalDataLineSignIn').html('<a  href=\'#\' onclick="loginscreen();">Sign-in for more options</a>');
 });
